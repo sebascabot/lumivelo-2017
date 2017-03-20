@@ -45,3 +45,13 @@
   - Frankenstein [500] (Das-Uboot style prompt)
   - NodeLua [765] (Lua interpreter with web IDE)
 
+
+## Hardware
+
+Surface mount is possible. Here some strategy.
+
+- PCB manufacture, for a small fee can solder the module if we provide the BOM
+- Convert a small oven into a machine to solder (ex. Piou Piou on the web)
+- Find a fablab
+
+Power module with reverse polarity protection is possible via a component build with MOSFET to minimize power lost we get with the diode.
