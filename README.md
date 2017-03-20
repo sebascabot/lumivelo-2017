@@ -1,11 +1,32 @@
 # lumivelo-2017
 
+## High priority task
+
+- Create mesh network. ESP in both mode: access point and client
+- Calculate distance between ESP using 'Received signal strength indication' (RSSI)
+- Over the air (OTA) Upgrade
+- Sleep mode (minimize current consumption while not in use)
+
+- Choose power input module
+  - Accept inverted polarity
+  - wide range: 6V to 36V
+
+- Choose ESP
+  - ESP-07 (ceramic)
+  - ESP-12F (cheap)
+  - RobotDyn (32 M)
+
+- Choose Firmware
+  - FreeRTOS
+  - NodeMCU
+  - Arduino
+
 ## Risks
 
 - OTA Upgrade with the ESP (Make it work)
 - Select best fit ESP module
 - Select best DC-DC step-down module
-- Touch module with proximity sensing
+- proximity sensing: use touch module
 - Clear case: selection
 - Power caracterisation
   - 5V DEL consumption
