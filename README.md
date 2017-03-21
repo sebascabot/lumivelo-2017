@@ -20,6 +20,10 @@
   - FreeRTOS
   - NodeMCU
   - Arduino
+  - MicroPython
+    - WiFi Example
+    - ESP2812B Example
+    - Deep Sleep Example
 
 ## Risks
 
@@ -55,3 +59,8 @@ Surface mount is possible. Here some strategy.
 - Find a fablab
 
 Power module with reverse polarity protection is possible via a component build with MOSFET to minimize power lost we get with the diode.
+
+## Stability feature
+
+- Put in place a watch dog
+- To save battery, put in place power management (Use deep sleep)
