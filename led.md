@@ -36,9 +36,11 @@ APA-106-F5 (5mm dia)
 
 #
 apa102 (clk pin)
-APA102C Fast PWM (20KHz) (Adafruit DotStar)
+APA102C Fast PWM (20KHz) (Adafruit DotStar) [Datasheet][5]
+
 
 [1]: https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf
 [2]: https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
 [3]: http://blinkinlabs.com/wp-content/uploads/2016/01/SK6812RGBW-datasheet.pdf
 [4]: http://www.seeedstudio.com/document/pdf/WS2812B%20Datasheet.pdf
+[5]: https://cdn-shop.adafruit.com/datasheets/APA102.pdf
