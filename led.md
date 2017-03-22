@@ -19,18 +19,16 @@ APA-106-F5 (5mm dia)
 
 ## SK6812
 
-[SK6812 Datasheet (from Adafruit)][2]
-
 - SK6812RGB
 - SK6812RGBW, White color
 - SK6812RGBBW, 6000-7000K, BW = Blue White 
 - SK6812RGBNW, 4000-4500K, NW = Natural White
 - SK6812RGBWS, 2700-3000K, WS = Warm Sunlight
 
-[SK6812 Datasheet][2]
-[SK6812RGBW Datasheet][3]
- 
-- unipolar NRZ communication mode: 32-bit data is transmitted 
+### Datasheet
+
+- [SK6812 Datasheet][2]
+- [SK6812RGBW Datasheet][3]
 
 # Doc
 
