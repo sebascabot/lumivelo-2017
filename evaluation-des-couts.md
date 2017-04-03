@@ -11,11 +11,11 @@ Tentative de calcul pour les composants
 
 Total, super approximatif
 
-  **120$**
+  *120$*
 
 ## Module lumière
 
-  - Bande DEL
+  - Bande DEL - 35$
   - Connecteur (inclus avec la bande)
   - Structure personnalisé
 
