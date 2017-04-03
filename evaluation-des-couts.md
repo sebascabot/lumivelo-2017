@@ -11,7 +11,7 @@ Tentative de calcul pour les composants
 
 Total, super approximatif
 
-  *120$* 
+  **120$**
 
 ## Module lumière
 
