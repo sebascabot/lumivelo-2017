@@ -24,7 +24,9 @@ Total, super approximatif
   - acceleromètre
 
     - MPU-6050 - 2.40$
+
       [https://www.aliexpress.com/item/FREE-SHIPPING-10PCS-LOT-MPU-6050-MPU6050-Module-3-Axis-analog-gyro-sensors-3-Axis-Accelerometer/1095345862.html]
+
     - ESP
 
     - Level shifter - 0.35$
