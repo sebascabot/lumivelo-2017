@@ -79,6 +79,10 @@ Total, super approximatif
 
     - 2pin jst - 0.25$
       <br>[https://www.aliexpress.com/item/30-Pairs-2pin-jst-Led-Strip-Connector-2-pin-Wire-For-Male-Female-Led-Lamps-Driver/32699357188.html]
+    - DC Cable Non-Waterproof 5.5 x 2.1mm jack 0.3mm - 0.25$
+      <br>[https://www.aliexpress.com/item/10pcs-5-5x2-1-Plug-DC-Female-Cable-Wire-Connector-For-3528-5050-LED-Strip-Light/32220082960.html]
+    - DC Cable Non-Waterproof with lock buckle 5.5 x 2.1mm jack 0.3mm - 0.50$
+      <br>[https://www.aliexpress.com/item/10-pairs-DC-Connectors-with-Lock-Buckle-15cm-length-cable-DC-5-5-x-2-1mm/32247716577.html]
     - DC Cable Waterproof IP68 5.5 x 2.1mm jack 0.3mm - 0.80$
       <br>[https://www.aliexpress.com/item/Black-LED-Connector-DC-Cable-Waterproof-IP68-5-5-x-2-1mm-Male-Female-jack/32308670050.html]
     - SAE 2 wire Quick Connect Disconnect - 3.50$
