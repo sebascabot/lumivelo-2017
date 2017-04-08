@@ -1,4 +1,10 @@
+# Vendor
+
+The leader in LED chip is [WorldSemi][6], "ws28xx original ws28xx manufacturer".
+
+
 # Old chip (phase out)
+
 - ws2801
 - ws2811 (6pin)
 
@@ -44,3 +50,4 @@ APA102C Fast PWM (20KHz) (Adafruit DotStar) [Datasheet][5]
 [3]: http://blinkinlabs.com/wp-content/uploads/2016/01/SK6812RGBW-datasheet.pdf
 [4]: http://www.seeedstudio.com/document/pdf/WS2812B%20Datasheet.pdf
 [5]: https://cdn-shop.adafruit.com/datasheets/APA102.pdf
+[6]: http://www.world-semi.com
