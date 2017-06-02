@@ -1,5 +1,14 @@
 # lumivelo-2017
 
+## Amélioration pour le module:
+
+- S'attache et se détache rapidement du vélo
+- Alimentation par connecteur «round barrel» 
+- Prise 1/8 stereo pour la communication série
+- Bouton Flash plus accessible
+- 4 x MOSFET. (Ex. pilote bande RGBW 12V très abordable)
+- Flash ESP without the need to press a button (like FeatherHuzzan)
+
 ## High priority task
 
 - Create mesh network. ESP in both mode: access point and client
