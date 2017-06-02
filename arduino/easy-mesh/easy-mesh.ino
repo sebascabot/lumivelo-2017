@@ -12,8 +12,8 @@
 #include <easyMesh.h>
 #include "FastLED.h"
 
-#define NUM_LEDS 256
-#define BRIGHTNESS 150
+#define NUM_LEDS 150
+#define BRIGHTNESS 75
 #define DATA_PIN 14
 #define MOSFET_PIN 16
 
