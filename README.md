@@ -1,8 +1,18 @@
 # lumivelo-2017
 
+## Document partagé de Pascal
+
+https://docs.google.com/spreadsheets/d/1MMSEb6D3tJwbFp2kBUpcbrTDNyLm5-AxXXlQYRbIkyA
+
 ## Amélioration pour le module:
 
+- Auto-detection de nombre de DEL dans la bande en mesurant la consommation
+  electrique, de même pour l'ordre RGB.
 - S'attache et se détache rapidement du vélo
+  - Exemple aucun fil à débrancher. module d'accueil sur le vélo.
+  - Exemple la pile, se retire par glissière et se charge par le même principe.
+- Boitier plus compact.
+- Boitier avec une surface en aluminium pour la dissipation de la chaleur.
 - Alimentation par connecteur «round barrel» 
 - Prise 1/8 stereo pour la communication série
 - Bouton Flash plus accessible

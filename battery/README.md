@@ -17,6 +17,13 @@ Un exellent résumé dans cette image: [Different Charging Mode][3]
   - Discharge
 
 
+# NiMH
+
+Le format 18650 semble une option intéressante.
+
+https://www.aliexpress.com/item/Nitecore-D4/32794003589.html
+http://charger.nitecore.com
+
 # LiPo
 
 Les LiPo sont disponible en 3.7V, 7.4V, 11.1V, 14.8V et 22.2V
