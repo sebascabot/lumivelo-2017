@@ -51,3 +51,9 @@ APA102C Fast PWM (20KHz) (Adafruit DotStar) [Datasheet][5]
 [4]: http://www.seeedstudio.com/document/pdf/WS2812B%20Datasheet.pdf
 [5]: https://cdn-shop.adafruit.com/datasheets/APA102.pdf
 [6]: http://www.world-semi.com
+
+# Led 3W
+
+Comment s'y prendre pour produire la tension et le courant requis par la DEL 3W ?
+
+Comment s'y prendre pur que cela ne soit trop compliqué ?

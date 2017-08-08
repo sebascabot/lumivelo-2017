@@ -34,3 +34,15 @@ Tiny Stepdown buck converter
 
 WeMos LDO: RT9013
 Voir le schéma: [https://www.wemos.cc/sites/default/files/2016-09/mini_new_V2.pdf]
+
+# Protection contre l'inversion
+
+Une idée trop dispendieuse, mais il existe un produit pour se protéger de l'inversion de polarité et fonctionner quand même. Le défi est la minimisation des pertes.
+
+Les noms, `active diode bridge` ou `ideal diode bridge`.
+
+Voici un produit de Linear, le LT4320 http://cds.linear.com/docs/en/datasheet/4320fb.pdf qui fait le travail. Une version sur Aliexpress reviens à un peu moins de 7$ la pièces, mais il faut en acheter 10. https://www.aliexpress.com/item/Free-Shipping-LT4320HMSE-PBF-LT4320HMSE-LT4320-MSOP12-new-and-Original-in-stock/32295917346.html
+
+# Question sur la recharge
+
+Comment doit-on s'y prendre pour charger une pile pendant l'utilisation ?
